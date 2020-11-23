@@ -12,7 +12,7 @@ Iesirea finala a programului:
 Hello! My name is Aid.
 I was created in 2018.
 Please, remind me your name.
-> Andrei
+'>' Andrei
 What a great name you have, Andrei!
 Let me guess your age.
 Say me remainders of dividing your age by 3, 5 and 7.
