@@ -1,8 +1,6 @@
+Heloo, I'm Busila Andrei
 # SimpleChattyBot
-# JetBrains Academy
-
-### Heloo, I'm Busila Andrei
-
-# Nivel: Easy!
+## JetBrains Academy
+### Nivel: Easy!
 
 Acesta este primul proiect
